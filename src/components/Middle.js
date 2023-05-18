@@ -28,7 +28,7 @@ const Middle = () => {
 
         }}>
                 <div>
-                    <div style={{ fontSize: '55px', fontWeight: 'bold', marginBottom: 8, textAlign: 'left', width: 500 }}>Front-End React Developer</div>
+                    <div style={{ fontSize: '55px', fontWeight: 'bold', marginBottom: 8, textAlign: 'left', width: 500 }}>MERN Stack Developer</div>
                     <div style={{ fontSize: '22px', marginTop: 8, textAlign: 'left', opacity: '0.8', width: 500 }}>Hi, i'm Danish Ali. A passionate front-end React Developer based in India <i className='fas fa-map-pin' style={{ opacity: '0.8' }}></i></div>
                     <div style={{
                         marginTop: 10
@@ -38,7 +38,7 @@ const Middle = () => {
                     </div>
                 </div>
                 <div class="image" >
-                    <img src={img} alt="" />
+                    <img class="img" src={img} alt="" />
                 </div>
             </div>
             <div style={{
